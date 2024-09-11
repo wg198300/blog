@@ -1,3 +1,6 @@
+blog:
+https://wg198300.github.io/blog
+
 |  工具  | Android  | Windows  |  
 |  ----  | ----   | ----  |  
 | v2ray  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.6.28/v2rayNG_1.6.28_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) |  
